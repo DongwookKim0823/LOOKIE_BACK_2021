@@ -43,7 +43,9 @@ LOOKIE 2021 BACKEND STUDY
 - [Spring Boot-3](https://velog.io/@dbghwns11/Spring-Boot-3)
  
 ### 7주차 (5/30 ~ 6/5)
-- Spring Boot로 기존 프로젝트 바꾸기
+- [Spring Boot-4](https://velog.io/@dbghwns11/Spring-Boot-4) 
+- [Spring Boot-5](https://velog.io/@dbghwns11/Spring-Boot-5) 
+- [Spring Boot-6](https://velog.io/@dbghwns11/Spring-Boot-6) 
 
 ### 8주차 (6/6 ~)
 - 보충
